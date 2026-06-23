@@ -1,3 +1,9 @@
+<div class="filament-hidden">
+
+![laravel-zero-api-client](https://raw.githubusercontent.com/jeffersongoncalves/laravel-zero-api-client/main/art/jeffersongoncalves-laravel-zero-api-client.png)
+
+</div>
+
 # laravel-zero-api-client
 
 A small, self-contained base for building REST API client wrappers in Laravel Zero CLI

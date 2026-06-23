@@ -10,6 +10,8 @@ use RuntimeException;
  * Concrete clients should extend this and (optionally) override
  * {@see ApiException::extractMessage()} when their API reports the
  * human-readable error under a non-standard JSON key.
+ *
+ * @phpstan-consistent-constructor
  */
 abstract class ApiException extends RuntimeException
 {
