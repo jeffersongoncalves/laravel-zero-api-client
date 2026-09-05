@@ -6,6 +6,8 @@
 
 # laravel-zero-api-client
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
+
 A small, self-contained base for building REST API client wrappers in Laravel Zero CLI
 tools. It was extracted from the near-identical HTTP layers of the Bitbucket and Jira
 CLIs and captures the shared 85%: `get`/`post`/`put`/`delete`, pagination, Basic/Bearer
